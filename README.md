@@ -31,6 +31,7 @@
 | Jeferson Pereira Oliveira | @jefersonibfe |
 | Raiele Silva | @raielesilva |
 | Nicole Menezes | @nclmenezes |
+| Joadson Reis | @Joadsonreis1 |
 
 
 ## Tecnologias Utilizadas
